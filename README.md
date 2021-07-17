@@ -14,3 +14,5 @@ The objective of this project is explore weather trends analyze local and global
 Is your Riyadh hotter or cooler on average compared to the global average? Has the difference been consistent over time?
 “How do the changes in  Riyadh’s temperatures over time compare to the changes in the global average?”
 What does the overall trend look like? Is the world getting hotter or cooler? Has the trend been consistent over the last few hundred years?
+
+:question:
